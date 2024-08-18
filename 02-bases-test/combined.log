@@ -1,0 +1,44 @@
+{"level":"info","message":"alo","service":"app.js"}
+{"level":"info","message":"alo","service":"app.js"}
+{"level":"info","message":"alo","service":"app.js"}
+{"level":"info","message":"alo","service":"app.js"}
+{"level":"info","message":"alo","service":"app.js"}
+{"level":"info","message":"alo","service":"app.js"}
+{"level":"info","message":"alo","service":"app.js"}
+{"level":"info","message":"alo","service":"app.js"}
+{"level":"info","message":"alo","service":"app.js"}
+{"level":"info","message":"alo","service":"app.js"}
+{"level":"error","message":"loi","service":"app.js"}
+{"level":"info","message":"alo","service":"app.js"}
+{"level":"error","message":"loi","service":"app.js"}
+{"level":"info","message":"alo","service":"app.js"}
+{"level":"error","message":"loi","service":"app.js"}
+{"level":"info","message":"alo","service":"app.js"}
+{"level":"error","message":"loi","service":"app.js"}
+undefined
+undefined
+{"level":"info","message":"alo","service":"app.js","timestamp":"2024-07-25T17:53:51.453Z"}
+{"level":"error","message":"loi","service":"app.js","timestamp":"2024-07-25T17:53:51.456Z"}
+{"level":"info","message":{},"service":"app.js","timestamp":"2024-07-29T19:50:38.642Z"}
+{"level":"info","message":"alo","service":"app.js","timestamp":"2024-07-29T19:50:38.651Z"}
+{"level":"error","message":"loi","service":"app.js","timestamp":"2024-07-29T19:50:38.652Z"}
+{"level":"info","message":"alo","service":"app.js","timestamp":"2024-07-29T19:53:30.847Z"}
+{"level":"error","message":"loi","service":"app.js","timestamp":"2024-07-29T19:53:30.852Z"}
+{"level":"info","message":"Pokemon name: bulbasaur","service":"app.js","timestamp":"2024-07-29T19:53:30.974Z"}
+{"level":"info","message":"alo","service":"app.js","timestamp":"2024-08-04T19:15:21.325Z"}
+{"level":"error","message":"loi","service":"app.js","timestamp":"2024-08-04T19:15:21.331Z"}
+{"level":"info","message":"Pokemon name: bulbasaur","service":"app.js","timestamp":"2024-08-04T19:15:21.439Z"}
+{"level":"info","message":"test message","service":"test","timestamp":"2024-08-12T18:44:57.291Z"}
+{"level":"info","message":"test message","service":"test","timestamp":"2024-08-12T18:45:24.462Z"}
+{"level":"info","message":"test message","service":"test","timestamp":"2024-08-12T18:46:07.867Z"}
+{"level":"info","message":"test message","service":"test","timestamp":"2024-08-12T18:46:44.881Z"}
+{"level":"info","message":"test message","service":"test","timestamp":"2024-08-12T18:48:03.252Z"}
+{"level":"info","message":"test message","service":"test","timestamp":"2024-08-12T18:50:03.439Z"}
+{"level":"info","message":"test message","service":"test","timestamp":"2024-08-12T18:50:46.770Z"}
+{"level":"info","message":"test message","service":"test","timestamp":"2024-08-12T18:50:58.766Z"}
+{"level":"info","message":"test message","service":"test","timestamp":"2024-08-12T18:58:18.759Z"}
+{"level":"info","message":"test message","service":"test","timestamp":"2024-08-12T19:01:19.376Z"}
+{"level":"info","message":"test message","service":"test","timestamp":"2024-08-12T19:02:13.422Z"}
+{"level":"info","message":"alo","service":"app.js","timestamp":"2024-08-12T19:02:25.785Z"}
+{"level":"error","message":"loi","service":"app.js","timestamp":"2024-08-12T19:02:25.789Z"}
+{"level":"info","message":"Pokemon name: bulbasaur","service":"app.js","timestamp":"2024-08-12T19:02:25.914Z"}
